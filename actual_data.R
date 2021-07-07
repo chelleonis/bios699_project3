@@ -1,4 +1,3 @@
-#make data oops
 #should also imputate
 #prepare data partition, testing step and 
 
@@ -45,6 +44,4 @@ ggforest(cox_test, data = hn_can)
 
 
 #main question is to differentiate common drug users from non
-
-
-#then we can fit a full model lol
+#then we can fit a full model
